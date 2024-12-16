@@ -1,7 +1,3 @@
-Got it! Here’s an updated version of the README that includes instructions on how to add new email HTML templates to a Moodle installation.
-
----
-
 # Moodle Email Templates Repository
 
 Welcome to the **Moodle Email Templates** repository! This repository collects, shares, and contributes a variety of email templates for use within Moodle. These templates can be customized and used by Moodle administrators, developers, and educators to streamline communication in various Moodle notifications and events.
@@ -102,7 +98,3 @@ This repository is made possible by the Moodle community’s contributions. Spec
 ## Contact
 
 For any questions or support related to the email templates, please open an issue in this repository or contact us at wailabualela@gmail.com.
-
----
-
-This updated README now includes detailed instructions on how to add and configure new HTML email templates within a Moodle installation. Let me know if you need any further adjustments!
